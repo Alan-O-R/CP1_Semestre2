@@ -1,4 +1,10 @@
 # CP1_Semestre2
+## NOMES:
+- Joao Ribeiro Rm: 570562
+- Alan Otalvaro Rm: 571794
+- Gabriel de Paula RM: 573195
+- Joao Pero Envangelista Rm: 573899
+- Enzo ribeiro Rm: 569429
 
 ## Objetivo
 
