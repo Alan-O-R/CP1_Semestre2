@@ -5,6 +5,7 @@
 - Gabriel de Paula RM: 573195
 - Joao Pero Envangelista Rm: 573899
 - Enzo ribeiro Rm: 569429
+- João Lucas silva Rm: 573875
 
 ## Objetivo
 
@@ -28,3 +29,8 @@ Aplicar os procedimentos trabalhados em aula para preparar, inspecionar e analis
 
 ### Individual Household Electric Power Consumption
 - Medições de consumo elétrico residencial, tensão, corrente, potência ativa, potência reativa e submedições.
+
+## Desafio Fianl
+Uma equipe de planejamento energético precisa analisar o comportamento da carga elétrica de uma região atendida pelo Sistema Interligado Nacional (SIN).
+
+Os dados foram obtidos diretamente de uma API pública do Operador Nacional do Sistema Elétrico (ONS). A conexão com a API e a preparação inicial do JSON já foram fornecidas. A partir daí, a nossa equipe construiu  o DataFrame, organizou os dados, criou recortes, calculou indicadores, produziu gráficos e elaborou um relatório técnico.
